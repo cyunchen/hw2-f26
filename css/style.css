@@ -27,7 +27,6 @@ p {
 img {
   display: block;
   width: 250px;
-  height: auto;
   margin: 0 auto;
   border: 10px dashed #ffffff;
 }
@@ -61,7 +60,6 @@ div {
   border-top: 2px solid #ffffff;
 }
 
-.blue h1,
 .blue h2,
 .blue p {
   color: #C4C4C4;
